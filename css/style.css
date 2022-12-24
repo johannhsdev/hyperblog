@@ -45,11 +45,19 @@ body {
     padding: 1em;
 }
 
-
 #footer{
     background: #777;
     color: white;
     padding: 0.5em;
-    text-align: center;
-    
+    text-align: center;   
+}
+
+#img-foto{
+    width: 20em;
+    height: auto;
+    border-radius:50%;
+    -webkit-border-radius:50%;
+    -moz-border-radius:50%;
+    -ms-border-radius:50%;
+    -o-border-radius:50%;
 }
